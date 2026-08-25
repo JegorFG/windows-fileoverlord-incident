@@ -555,7 +555,7 @@ Al finalizar esta etapa:
 - SFC detectó archivos dañados y los reparó correctamente;
 - `adsiedit.dll` no fue eliminado manualmente.
 
-La siguiente fase consistió en comprobar el estado del sistema después de la contención, revisar los resultados de Microsoft Defender Offline y verificar que el mecanismo observado no volviera a aparecer.
+La siguiente fase consistió en verificar la integridad de Windows y comprobar, después de reiniciar el sistema, que FileOverlord y el mecanismo de persistencia identificado no volvieran a aparecer.
 
 ---
 
